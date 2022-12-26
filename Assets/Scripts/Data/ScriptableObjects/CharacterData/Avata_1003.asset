@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbb3cbac748a2194d87a5db0183ba6cf, type: 3}
+  m_Name: Avata_1003
+  m_EditorClassIdentifier: 
+  characterAvataImage: {fileID: 2800000, guid: 7023affd83f38f342a17180c3cbc52f7, type: 3}
+  characterName: "\u5973\u5DEB"
+  characterStartLevel: 8
+  characterStatsData: {fileID: 11400000, guid: 82877c1217a000742b3ab15b1f422393, type: 2}
